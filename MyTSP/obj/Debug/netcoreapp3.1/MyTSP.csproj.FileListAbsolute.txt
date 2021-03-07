@@ -1,0 +1,13 @@
+C:\Users\youcode\source\repos\MyTSP\MyTSP\bin\Debug\netcoreapp3.1\MyTSP.exe
+C:\Users\youcode\source\repos\MyTSP\MyTSP\bin\Debug\netcoreapp3.1\MyTSP.deps.json
+C:\Users\youcode\source\repos\MyTSP\MyTSP\bin\Debug\netcoreapp3.1\MyTSP.runtimeconfig.json
+C:\Users\youcode\source\repos\MyTSP\MyTSP\bin\Debug\netcoreapp3.1\MyTSP.runtimeconfig.dev.json
+C:\Users\youcode\source\repos\MyTSP\MyTSP\bin\Debug\netcoreapp3.1\MyTSP.dll
+C:\Users\youcode\source\repos\MyTSP\MyTSP\bin\Debug\netcoreapp3.1\MyTSP.pdb
+C:\Users\youcode\source\repos\MyTSP\MyTSP\obj\Debug\netcoreapp3.1\MyTSP.csprojAssemblyReference.cache
+C:\Users\youcode\source\repos\MyTSP\MyTSP\obj\Debug\netcoreapp3.1\MyTSP.AssemblyInfoInputs.cache
+C:\Users\youcode\source\repos\MyTSP\MyTSP\obj\Debug\netcoreapp3.1\MyTSP.AssemblyInfo.cs
+C:\Users\youcode\source\repos\MyTSP\MyTSP\obj\Debug\netcoreapp3.1\MyTSP.csproj.CoreCompileInputs.cache
+C:\Users\youcode\source\repos\MyTSP\MyTSP\obj\Debug\netcoreapp3.1\MyTSP.dll
+C:\Users\youcode\source\repos\MyTSP\MyTSP\obj\Debug\netcoreapp3.1\MyTSP.pdb
+C:\Users\youcode\source\repos\MyTSP\MyTSP\obj\Debug\netcoreapp3.1\MyTSP.genruntimeconfig.cache
